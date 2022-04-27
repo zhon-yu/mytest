@@ -6,5 +6,8 @@ public class User {
     private String userA;
     private String userB;
 
+    // 新增用户C
+    private String userC;
+
     private String currentDev;
 }
