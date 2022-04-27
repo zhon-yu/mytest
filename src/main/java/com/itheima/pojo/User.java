@@ -9,5 +9,8 @@ public class User {
     // 新增用户C
     private String userC;
 
+    // 新增用户D
+    private String userD;
+
     private String currentDev;
 }
